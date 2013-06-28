@@ -1,1 +1,58 @@
-STYLE COFFEE
+li {
+	list-style: none;
+	display: inline;
+}
+
+ul {
+	padding-left: 0;
+}
+
+footer {
+	clear: both;
+}
+
+.center {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 10 px;
+	color: #d6ac7a
+}
+
+.left {
+	float: left;
+	padding-left: 15%;
+	width: 50%;
+}
+
+.right{
+	float: right;
+	padding-right: 15%;
+	width: 50%;
+}
+
+.background-color {
+	background-color: #230b03;
+}
+
+.footer-color {
+	color: blue;
+}
+
+.style {
+	text-align: center;
+}
+
+.width-third {
+	width: 33%;
+}
+
+.background-image {
+	background-image: url(beans.jpg);
+	background-size: cover;
+	height: 50%;
+}
+
+.beans-logo {
+	background-image: url(beans-logo.jpg);
+}
